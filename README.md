@@ -55,6 +55,7 @@ From the root directory of the project, run:
 
 ```bash
 python src/main.py
+```
 
 ### Application Usage
 
